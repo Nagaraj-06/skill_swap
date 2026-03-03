@@ -146,7 +146,7 @@ graph TD
 To ensure data integrity and optimized performance, SkillSwap follows a highly relational schema managed via **Prisma ORM**.
 
 <div align="center">
-  <img src="backend/src/assets/skill-swap.png" alt="ER Diagram" width="100%" />
+  <img src="assets/skill-swap.png" alt="ER Diagram" width="100%" />
 </div>
 
 ---
